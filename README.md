@@ -14,7 +14,7 @@ Crowd simulation aims to generate agent behaviours that are rich, natural, and a
 <br>
 
 <p align="center"><strong>
-	- <a href="https://doi.org/10.48550/arXiv.2610.39563" target="_blank">Publication</a> | <a href="https://github.com/MarilenaLemonari/Trajeform-Embedding-Crowd-Data/blob/main/Misc/PDF_files/Trajeform_supplementary.pdf" target="_blank">Supplementary Material (PDF)</a> | <a href="https://youtu.be/g3ugxktiWNs" target="_blank">Video</a> -
+	- <a href="https://arxiv.org/abs/2610.39563" target="_blank">Publication</a> | <a href="https://github.com/MarilenaLemonari/Trajeform-Embedding-Crowd-Data/blob/main/Misc/PDF_files/Trajeform_supplementary.pdf" target="_blank">Supplementary Material (PDF)</a> | <a href="https://youtu.be/g3ugxktiWNs" target="_blank">Video</a> -
 </strong>
 </p>
 
